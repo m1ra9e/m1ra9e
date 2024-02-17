@@ -6,7 +6,7 @@
       <a href="#"><img align="left" alt="Lenar's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" /></a>
       <a href="#"><img align="left" alt="Lenar's Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536661.png" /></a>
       <a href="#"><img align="left" alt="Lenar's Whatsapp" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536445.png" /></a>
-      <a href="#"><img align="left" alt="Lenar's Twitter"  width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536424.png" /></a>
+      <!-- <a href="#"><img align="left" alt="Lenar's Twitter"  width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536424.png" /></a> -->
     </td>
     <td rowspan="2">
       <img alt="gif" src="https://media1.tenor.com/m/l53qv3b1lhoAAAAd/silicon-valley-locked.gif" />
