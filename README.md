@@ -9,7 +9,7 @@
       <!-- <a href="#"><img align="left" alt="Lenar's Twitter"  width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536424.png" /></a> -->
     </td>
     <td rowspan="2">
-      <img alt="gif" src="https://media1.tenor.com/m/l53qv3b1lhoAAAAd/silicon-valley-locked.gif" />
+      <img alt="gif" width="498px" src="https://media1.tenor.com/m/l53qv3b1lhoAAAAd/silicon-valley-locked.gif" />
       <!-- <img alt="gif" src="https://media1.tenor.com/m/l53qv3b1lhoAAAAC/silicon-valley-locked.gif" /> -->
       <!-- <img align="right" alt="gif" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> -->
     </td>
