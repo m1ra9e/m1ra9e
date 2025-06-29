@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td valign="top">
-      - Developer <br />
+      - Java-developer <br />
       - Open Source enthusiast <br />
       - Constant learner <br />
     </td>
