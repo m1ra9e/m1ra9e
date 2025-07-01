@@ -3,15 +3,13 @@
 <table border="0" width="100%">
   <tr>
     <td align="center" valign="middle">
-      <a href="#"><img align="left" alt="Lenar's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" /></a>
-      <a href="#"><img align="left" alt="Lenar's Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536661.png" /></a>
-      <a href="#"><img align="left" alt="Lenar's Whatsapp" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536445.png" /></a>
-      <!-- <a href="#"><img align="left" alt="Lenar's Twitter"  width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536424.png" /></a> -->
+      <a href="#"><img align="left" alt="Lenar's Linkdein" width="22px" src="img/linkedin.png" /></a>
+      <a href="#"><img align="left" alt="Lenar's Telegram" width="22px" src="img/telegram.png" /></a>
+      <a href="#"><img align="left" alt="Lenar's Whatsapp" width="22px" src="img/whatsapp.png" /></a>
+      <!-- <a href="#"><img align="left" alt="Lenar's Twitter"  width="22px" src="img/twitter.png" /></a> -->
     </td>
     <td rowspan="2">
-      <img alt="gif" width="498px" src="https://media1.tenor.com/m/l53qv3b1lhoAAAAd/silicon-valley-locked.gif" />
-      <!-- <img alt="gif" src="https://media1.tenor.com/m/l53qv3b1lhoAAAAC/silicon-valley-locked.gif" /> -->
-      <!-- <img align="right" alt="gif" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> -->
+      <img alt="gif" width="498px" src="img/silicon_valley.gif" />
     </td>
   </tr>
   <tr>
@@ -32,9 +30,14 @@
 <!--
   Icons taken from riajulislam :
     https://www.flaticon.com/free-icons/linkedin
+      (src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png")
     https://www.flaticon.com/free-icons/telegram
+      (src="https://cdn-icons-png.flaticon.com/512/3536/3536661.png)
     https://www.flaticon.com/free-icons/whatsap
+      (src="https://cdn-icons-png.flaticon.com/512/3536/3536445.png")
     https://www.flaticon.com/free-icons/twitter
+      (src="https://cdn-icons-png.flaticon.com/512/3536/3536424.png")
 
   Gif image taken from https://tenor.com/ru/view/silicon-valley-locked-doors-headphones-richard-gif-18012273
+    (src="https://media1.tenor.com/m/l53qv3b1lhoAAAAd/silicon-valley-locked.gif")
 -->
