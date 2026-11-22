@@ -3,7 +3,7 @@
 <table border="0" width="100%">
   <tr>
     <td align="center" valign="middle">
-      <a href="#"><img align="left" alt="Lenar's Linkdein" width="22px" src="img/linkedin.png" /></a>
+      <a href="#"><img align="left" alt="Lenar's LinkedIn" width="22px" src="img/linkedin.png" /></a>
       <a href="#"><img align="left" alt="Lenar's Telegram" width="22px" src="img/telegram.png" /></a>
       <a href="#"><img align="left" alt="Lenar's Whatsapp" width="22px" src="img/whatsapp.png" /></a>
       <!-- <a href="#"><img align="left" alt="Lenar's Twitter"  width="22px" src="img/twitter.png" /></a> -->
@@ -41,3 +41,7 @@
   Gif image taken from https://tenor.com/ru/view/silicon-valley-locked-doors-headphones-richard-gif-18012273
     (src="https://media1.tenor.com/m/l53qv3b1lhoAAAAd/silicon-valley-locked.gif")
 -->
+
+---
+
+<sub>Inspired by an earlier version of [Timur Galeev](https://github.com/timurgaleev/timurgaleev)'s profile repository. See [CREDITS.md](CREDITS.md)</sub>
